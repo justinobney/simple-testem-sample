@@ -3,13 +3,13 @@ simple-testem-sample
 
 Simple Example of Javascript TDD using TESTEM
 
-     "Class" signature
-|--------------------------|
-|        Factorial         |
-|--------------------------|
-| method: solve(int)       |
-| prop: processCount : int |
-|--------------------------|
+          "Class" signature
+     |--------------------------|
+     |        Factorial         |
+     |--------------------------|
+     | method: solve(int)       |
+     | prop: processCount : int |
+     |--------------------------|
 
 * should exist!
 * should know how to do a factorial
