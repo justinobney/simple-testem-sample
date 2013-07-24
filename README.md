@@ -7,7 +7,7 @@ Simple Example of Javascript TDD using TESTEM
      |--------------------------|
      |        Factorial         |
      |--------------------------|
-     | method: solve(int)       |
+     | method: solve(int) : int |
      | prop: processCount : int |
      |--------------------------|
 
